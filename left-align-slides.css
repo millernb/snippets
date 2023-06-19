@@ -5,3 +5,12 @@
 .reveal h4 {font-size: 1.3em; }
 
 .reveal .slides { text-align: left; }
+
+:root {
+  --r-background-color: #faf4ed;
+  --r-main-color: #575279;
+  --r-heading-color: #b4637a;
+  --r-link-color: #d7827e;
+  --r-link-color-hover: #907aa9;
+  --r-selection-color: #56949f;
+}
